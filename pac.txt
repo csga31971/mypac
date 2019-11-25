@@ -9,6 +9,8 @@ var rules = [
   ".honeyhunterworld.com*",
   ".ppy.sh*",
   ".github.com*",
+  ".fandom.com*",
+  ".fextralife.com*",
   "||agnesb.fr",
   "||akiba-web.com",
   "||altrec.com",
