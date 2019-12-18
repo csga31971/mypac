@@ -4,8 +4,10 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "https://greasyfork.org*,
+  "https://jsfiddle.net/*",
   "|http://85.17.73.31/",
-  ".arcgis.com/*",
+  ".arcgis.com*",
   ".honeyhunterworld.com*",
   ".ppy.sh*",
   ".github.com*",
